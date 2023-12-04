@@ -1,0 +1,10 @@
+PARAMETERS LIST
+
+1. N Highest Frequency Words 
+2. N Highest Frequency Unique Content Words
+3. Mean Word Lenght
+4. Mean Sentence Length
+5. Sentence Length Standard Deviation
+6. Type/Token Ratio
+7. Filler/Token Ratio
+8. Lemma/Token Ratio
